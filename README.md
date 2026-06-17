@@ -12,6 +12,8 @@ This repository serves as a historical record of my growth as a developer, showc
 
 **Status:** Production
 
+**Version:**V4
+
 **Live Website:**
 https://portfolio-5yf.pages.dev/
 
