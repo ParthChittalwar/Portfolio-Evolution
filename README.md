@@ -207,7 +207,7 @@ Known Issues:
 Status: Legacy Production Version
 
 Repository:
-https://github.com/ParthChittalwar/Portfolio-V1
+https://github.com/ParthChittalwar/Portfolio-Legacy
 
 Overview:
 
