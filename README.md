@@ -204,7 +204,7 @@ Known Issues:
 
 ### Portfolio V1
 
-Status: Legacy Production Version (First Version )
+Status: Legacy Production Version (Very irst Version )
 
 Repository:
 https://github.com/ParthChittalwar/Portfolio-Legacy
